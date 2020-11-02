@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (context) => MyHomePage(),
-        '/reminder': (context) => ReminderScreen(),
+        // '/reminder': (context) => ReminderScreen(),
       },
     );
   }
